@@ -35,7 +35,7 @@ github_username:  shihaoliu
 #theme: jekyll-theme-minimal
 #theme: jekyll-theme-leap-day
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin    : "air" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 search: true
 search_full_content      : true
