@@ -2,7 +2,7 @@
 @import "minimal-mistakes/copyright";
 
 /* $global-transition: all 0.3s ease-in-out; */
-$intro-transition: intro 0s both;
+// $intro-transition: intro 0s both;
 
 /* Variables */
 @import "minimal-mistakes/variables";
@@ -39,17 +39,18 @@ $intro-transition: intro 0s both;
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
 
+
+/*
 .masthead {
   position: sticky;
-  top: 0.2em;
+  top: 1em;
   padding: 0em 1em 1em;
   background-color: $background-color f;
   &__inner-wrap {
-    padding: 0em;
+    padding: 0em 1em 0em;
     nav {
       z-index: 20;
     }
   }
 }
-
-
+*/
