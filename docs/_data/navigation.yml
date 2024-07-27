@@ -1,0 +1,18 @@
+main:
+  - title: "Quick-Start Guide"
+    url: /cv
+  - title: "Posts"
+    url: /about/
+  - title: "Categories"
+    url: /cv
+  - title: "Tags"
+    url: /about/
+  - title: "Pages"
+    url: /page-archive/
+  - title: "Collections"
+    url: /collection-archive/
+  - title: "External Link"
+    url: https://google.com
+    target: _blank
+  - title: "Fix this"
+    

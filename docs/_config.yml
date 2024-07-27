@@ -32,8 +32,16 @@ github_username:  shihaoliu
 # Build settings
 #theme: minima
 # remote-theme: pages-themes/hacker@v0.2.0
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 #theme: jekyll-theme-leap-day
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin    : "air" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+search: true
+search_full_content      : true
+lunr:
+  search_within_pages    : true
+  
 plugins:
   - jekyll-feed
   - jekyll-remote-theme

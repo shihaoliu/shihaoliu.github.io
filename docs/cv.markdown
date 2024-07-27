@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: splash
 title: ACV
 permalink: /cv
 ---
